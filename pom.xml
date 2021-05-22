@@ -4,6 +4,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
+    <!-- TODO change -->
     <groupId>io.github.seggan.CHANGEME</groupId>
     <artifactId>AddonTemplate</artifactId>
     <version>UNOFFICIAL</version>
@@ -12,7 +13,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <author>Mooy1</author>
+        <author>Seggan</author>
     </properties>
 
     <repositories>
@@ -58,7 +59,7 @@
         <dependency>
             <groupId>io.github.mooy1</groupId>
             <artifactId>InfinityLib</artifactId>
-            <version>43d8c43</version>
+            <version>eda888c</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>

@@ -1,4 +1,4 @@
-package io.github.mooy1.addontemplate;
+package io.github.seggan.addontemplate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,13 +30,7 @@ public final class AddonTemplate extends AbstractAddon {
     @Nonnull
     @Override
     protected String getGithubPath() {
-        return "Mooy1/AddonTemplate/master";
-    }
-
-    @Nonnull
-    @Override
-    protected List<AbstractCommand> getSubCommands() {
-        return new ArrayList<>();
+        return "Seggan/AddonTemplate/master";
     }
 
     @Override
