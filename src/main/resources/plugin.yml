@@ -1,8 +1,8 @@
 name: AddonTemplate
-author: Mooy1
+author: Seggan
 description: Addon Template
-main: io.github.mooy1.addontemplate.AddonTemplate
-website: https://github.com/Mooy1/AddonTemplate
+main: io.github.seggan.addontemplate.AddonTemplate
+website: https://github.com/Seggan/AddonTemplate
 depend: [Slimefun]
 version: ${project.version}
 api-version: 1.16
